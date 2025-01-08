@@ -37,4 +37,4 @@ Os dados utilizados foram obtidos do portal **TerraBrasilis**, uma plataforma do
 - Agrupamento de regiões com comportamento semelhante em termos de queimadas.
 
 ## Contribuições
-Se você tem sugestões ou melhorias para este projeto, fique à vontade em mostrar.
+Se você tem sugestões de melhorias para este projeto, fique à vontade em mostrar.
