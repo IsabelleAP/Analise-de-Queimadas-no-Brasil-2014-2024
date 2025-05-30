@@ -1,4 +1,4 @@
-# Analise-de-Queimadas-no-Brasil-10-anos
+# Analise-de-Queimadas-no-Brasil-2014-2024
 Este repositório contém um projeto de ciência de dados sobre queimadas no Brasil ao longo de 10 anos. Utilizando técnicas de análise exploratória e clusterização, o projeto visa identificar padrões e tendências relacionadas às queimadas em diferentes regiões.
 
 ## Objetivo
