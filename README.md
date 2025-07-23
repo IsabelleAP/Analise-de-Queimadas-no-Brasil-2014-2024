@@ -1,5 +1,5 @@
 # Analise-de-Queimadas-no-Brasil-2014-2024
-Este repositório contém um projeto de ciência de dados sobre queimadas no Brasil entre janeiro de 2014 e outubro de 2024. Foram utilizadas técnicas de análise exploratória e clusterização.
+Este repositório contém um projeto de ciência de dados sobre queimadas no Brasil entre janeiro de 2014 e 2024. Foram utilizadas técnicas de análise exploratória e clusterização.
 
 ## Objetivo
 O projeto teve como objetivo explorar o comportamento das queimadas no Brasil ao longo de uma década identificando padrões e tendências temporais. A análise foi realizada utilizando bibliotecas de Python, como Pandas, Matplotlib, Scikit-learn, entre outras.
